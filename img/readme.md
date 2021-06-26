@@ -1,5 +1,5 @@
 
-<a href="https://itzamango.github.io/postwork-equipo-10/" target="_blank"><h1>PARA VER LA VERSIÓN EN HTML DINÁMICO DEL SCRIPT DE R CON GRÁFICAS INTERACTIVAS HAZ CLICK EN ESTA ORACIÓN</h1></a>
+<a href="https://itzamango.github.io/postwork-equipo-10/" target="_blank"><h1>PARA VER LA VERSIÓN EN HTML RESPONSIVA DEL SCRIPT DE R CON GRÁFICAS INTERACTIVAS HAZ CLICK EN ESTA ORACIÓN</h1></a>
 
 <img src="https://github.com/itzamango/postwork-equipo-10/blob/eb0c755ba8810634f7e2cb7eb2298b66d3989ddb/img/bedulogo.png?raw=true">
 
